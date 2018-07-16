@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTraining", "GitTraining\GitTraining.csproj", "{D483D9F4-BC54-4576-A994-6CE0ECB004BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTraining.Tests", "GitTraining.Tests\GitTraining.Tests.csproj", "{11EC44DC-72CC-4E18-BE64-5209D9FBFB9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D483D9F4-BC54-4576-A994-6CE0ECB004BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D483D9F4-BC54-4576-A994-6CE0ECB004BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D483D9F4-BC54-4576-A994-6CE0ECB004BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D483D9F4-BC54-4576-A994-6CE0ECB004BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11EC44DC-72CC-4E18-BE64-5209D9FBFB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11EC44DC-72CC-4E18-BE64-5209D9FBFB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11EC44DC-72CC-4E18-BE64-5209D9FBFB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11EC44DC-72CC-4E18-BE64-5209D9FBFB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5728CFF-A4CF-4D66-9958-B1BC3EB488E7}
+	EndGlobalSection
+EndGlobal
